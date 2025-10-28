@@ -32,4 +32,4 @@ def render_counselor_allocation_analysis(df_filtered):
     st.markdown("""
     **Key Insight:** Terjadi **ketidakseimbangan alokasi**. Puncak antrian di malam hari (21:00 - 01:00) tidak diikuti oleh peningkatan jumlah konselor yang signifikan. Alokasi konselor cenderung datar, mengabaikan **puncak permintaan *user* malam hari**.
     """)
-    # st.markdown("---") <-- GARIS INI DIHAPUS
+
